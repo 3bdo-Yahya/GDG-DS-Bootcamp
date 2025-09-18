@@ -13,20 +13,6 @@ GDG-DS-Bootcamp/
 └── README.md         # This file
 ```
 
-## 📋 Presentation Materials
-
-### Session Slides
-- **Intro to Data Science**: [View Presentation](https://docs.google.com/presentation/d/1A5UAX2MM0Zkgk57L-Mx1eEH19dKCHF382Cwe3ndpMRA/edit?usp=sharing)
-- **Excel for Data Analysis**: [View Presentation](https://docs.google.com/presentation/d/16-oSpGcVxltKfmIxgT7T4lEFisGDX3dV3jQzTEM-Bts/edit?usp=drive_link)
-
-## 📊 Datasets
-
-### Excel Project Dataset
-- **File**: `datasets/Excel_Project_Dataset.xlsx`
-- **Source**: [AlexTheAnalyst Excel Tutorial](https://github.com/AlexTheAnalyst/Excel-Tutorial)
-- **Description**: A comprehensive dataset used for Excel data analysis tutorials and practice
-- **Usage**: This dataset is used in our Excel and data analysis sessions
-
 ## 🎯 About the Bootcamp
 
 This repository serves as a central hub for all materials related to the Data Science Bootcamp sessions conducted at GDG on Campus SVU. The bootcamp covers various aspects of data science including:
@@ -48,7 +34,7 @@ This repository is maintained for educational purposes. Session materials and up
 - **GDG on Campus SVU**: [Visit our Chapter](https://gdg.community.dev/gdg-on-campus-south-valley-university-qena-egypt/)
 
 ### Maintainer
-- **GDG Profile**: [A. Rahman Yahya](https://gdg.community.dev/u/m9mfa6)
+- **GDG Profile**: [Abdelrahman Yahia](https://gdg.community.dev/u/m9mfa6)
 - **Email**: A.Rhman.Yahya@gmail.com
 
 ## 📝 License
